@@ -1,2 +1,2 @@
 Hello From folder2.
-This is to verify git commit and push
+This is to verify automatic build trigger
